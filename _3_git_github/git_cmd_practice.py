@@ -15,3 +15,4 @@ merge_confict_2nd_branch()
 
 def created_remote_branch():
     print("created remote branch through github web, and try to merge/update the local repo.")
+    print("making commit on github web ahead of local branch to check 3-waty merge conflict during git push")

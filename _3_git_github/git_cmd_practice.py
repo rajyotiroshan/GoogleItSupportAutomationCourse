@@ -15,6 +15,7 @@ merge_confict_2nd_branch()
 
 def created_remote_branch():
     print("created remote branch through github web, and try to merge/update the local repo.")
-    
+    print("3-way merge conflict")
+
 def _2nd_remote_branch():
     print("_2nd remote branch")

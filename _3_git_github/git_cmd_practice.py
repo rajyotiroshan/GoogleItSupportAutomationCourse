@@ -20,3 +20,4 @@ def created_remote_branch():
 def _2nd_remote_branch():
     print("_2nd remote branch")
     print("making commit on github web ahead of local branch to check 3-waty merge conflict during git push")
+    print("making changes for learning rebasing with 3-way merge scenario")
